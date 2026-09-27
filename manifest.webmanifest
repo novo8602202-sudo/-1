@@ -1,0 +1,9 @@
+{
+  "name": "BAND UP",
+  "short_name": "BAND UP",
+  "description": "Тренировки с длинными резиновыми петлями",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0f0d",
+  "theme_color": "#0c0f0d"
+}
